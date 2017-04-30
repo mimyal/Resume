@@ -1,2 +1,2 @@
-![Atom](/images/atom.jpg)
+![Atom](/atom.png)
 Format: ![Atom](url)
