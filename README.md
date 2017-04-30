@@ -1,3 +1,1 @@
-![Atom](/atom.png)
-
-<img src="/atom.png" width="48">
+<img src="/atom.png" width="12">
